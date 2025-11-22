@@ -1,0 +1,48 @@
+# FILE: /.gitignore
+
+# Environment configuration
+.env
+
+# Vendor (if using Composer)
+/vendor/
+
+# Storage and uploads
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+/logs/
+
+# Cache
+/cache/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Node modules (if using npm for frontend build)
+node_modules/
+
+# Build files
+/dist/
+/build/
