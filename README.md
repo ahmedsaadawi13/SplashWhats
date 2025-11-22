@@ -63,7 +63,7 @@ This system **simulates** WhatsApp-style messaging functionality and is **not** 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/splashwhats.git
+git clone https://github.com/ahmedsaadawi13/splashwhats.git
 cd splashwhats
 ```
 
@@ -463,7 +463,7 @@ This project is provided as-is for educational and commercial use.
 
 For issues, questions, or contributions:
 - Open an issue on GitHub
-- Email: support@splashwhats.com
+- Email: ahmed.sha3ban13@gmail.com
 
 ## Credits
 
